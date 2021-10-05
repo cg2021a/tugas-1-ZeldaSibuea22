@@ -20,3 +20,7 @@ Benda merupakan kotak jam tangan, yang diawali huruf K
 ![WhatsApp Image 2021-09-22 at 00 53 14 (2)](https://user-images.githubusercontent.com/73489643/134223383-a6817107-cc31-4d6a-bf25-3a88e5511e5a.jpeg)
 
 
+## Hasil Tugas ## 
+![image](https://user-images.githubusercontent.com/73489643/136092887-54760788-60ac-4e32-8b8b-d4ffae5e3b61.png)
+
+Link : https://zeldasibuea-tugas1-grafkom.netlify.app/
