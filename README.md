@@ -21,6 +21,7 @@ Benda merupakan kotak jam tangan, yang diawali huruf K
 
 
 ## Hasil Tugas ## 
-![image](https://user-images.githubusercontent.com/73489643/136092887-54760788-60ac-4e32-8b8b-d4ffae5e3b61.png)
+![image](https://user-images.githubusercontent.com/73489643/136095695-c801aaba-b290-40ec-84ca-de1ea6c42db5.png)
+
 
 Link : https://zeldasibuea-tugas1-grafkom.netlify.app/
