@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"
+      integrity="sha512-dLxUelApnYxpLt6K2iomGngnHO83iUvZytA3YjDUCjT0HDOHKXnVYdf3hU4JjM8uEhxf9nD1/ey98U3t2vZ0qQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Tugas Three js</title>
+  </head>
+  <body>
+    <h1 class="judul">
+      Tugas Three js
+    </h1>
+    <section class="lighting-conf">
+      <h2 class="judul">Lighting</h2>
+
+     <form action="pilihan">
+        <label for="lighting">Pilih Lighting:</label>
+        <select id="lighting" name="lighting">
+
+          <div class="pilih">
+              <option value="Ambient">Ambient Light</option>
+        </div>
+          
+        <div class="pilih">
+            <option value="Hemisphere">Hemisphere Light</option>
+       </div>
+        
+       <div class="pilih">
+        <option value="Directional">Directional Light</option>
+    </div>
+        
+    <div class="pilih">
+        <option value="Point">Point Light</option>
+    </div>
+
+    <div class="pilih">
+        <option value="Spot">Spot Light</option>
+    </div>
+         
+        </select>
+        <input type="submit">
+      </form>
+    </section>
+
+    <footer>
+        <p>Zelda Elma Sibuea</p>
+        <p>05111940000038</p>
+    </footer>
+    <section class="preview-canvas">
+      <canvas class="webgl"> Browser tidak mendukung HTML 5 </canvas>
+      <script src="script.js"></script>
+    </section>
+  </body>
+</html>
